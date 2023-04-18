@@ -17,7 +17,7 @@ export default async function getCurrentUser() {
         }
         const currentUser = await primsa.user.findUnique({
             where: {
-                email: session.user.email as string
+                email: session.user.email as string,
             }
         });
         if(!currentUser){
