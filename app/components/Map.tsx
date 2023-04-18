@@ -22,7 +22,7 @@ interface MapProps{
 }
 
 
-const Map: Recat.FC<MapProps> = ({
+const Map: React.FC<MapProps> = ({
     center
 }) => {
     return ( 
