@@ -124,9 +124,8 @@ const RentModal = () => {
         className="flex flex-col gap-8"
         >
             <Heading
-              title="Which of these best describes your place?"
-                subtitle="Pick a category">
-            </Heading>
+                title="Which of these best describes your place?"
+                subtitle="Pick a category"/>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3 max-h-[50vh] overflow-y-auto">
                 {categories.map((item)=>(
                     <div key={item.label} className="col-span-1">
@@ -143,7 +142,7 @@ const RentModal = () => {
                 <Heading
                     title="Where is your place located?"
                     subtitle="Help guests find you!"
-                ></Heading>
+                />
                 <CountrySelect
                     value={location}
                     onChange={(value)=>setCustomValue('location', value)}
@@ -161,7 +160,7 @@ const RentModal = () => {
                 <Heading
                     title="Share some basics about your place"
                     subtitle="What amenities do you have?"
-                ></Heading>
+                />
                 <Counter
                     title="Guests"
                     subtitle="How many guests do you allow?"
@@ -192,7 +191,7 @@ const RentModal = () => {
                 <Heading
                     title="Add a photo of your place"
                     subtitle="Show guests what your place looks like!"
-                ></Heading>
+                />
                 <ImageUpload value={imageSrc} onChange={(value)=>setCustomValue('imageSrc',value)}></ImageUpload>
             </div>
         )
@@ -204,7 +203,7 @@ const RentModal = () => {
                 <Heading
                     title="How should you describe your place?"
                     subtitle="Short and sweet works best!"
-                ></Heading>
+                />
                 <Input id="title" label="Title" disabled={isLoading} register={register} errors={errors} required></Input>
                 <hr/>
                 <Input id="description" label="Description" disabled={isLoading} register={register} errors={errors} required></Input>
@@ -220,7 +219,7 @@ const RentModal = () => {
                 <Heading
                     title="Now, set your price"
                     subtitle="How much do you charge per night?"
-                ></Heading>
+                />
                 <Input id="price" label="price" formatPrice type="number" disabled={isLoading} register={register} errors={errors} required></Input>
             </div>
         )
