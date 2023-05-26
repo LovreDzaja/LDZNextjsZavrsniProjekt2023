@@ -1,0 +1,14 @@
+npm i prisma
+npm i react-router-dom
+npm i axios
+npm i bcrypt
+npm i date-fns
+npm i leaflet 
+npm i eslint 
+npm i react-date-range
+npm i react-hot-toast
+npm i react-icons
+npm i world-countries
+npm i zustand
+npm i react-spinners
+npm i react-select
