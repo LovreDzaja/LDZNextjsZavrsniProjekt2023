@@ -1,39 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+LDZNextjsZavrsniProjekt2023
+This is a Next.js project created as a final project for a course. The purpose of the project is to showcase the knowledge and skills gained during the course.
 
-## Getting Started
+Getting Started
+To get started with the project, you will need to have Node.js and npm installed on your computer. You can download the latest version of Node.js from the official website here.
 
-First, run the development server:
+Once you have installed Node.js, you can clone the repository to your local machine using the following command:
 
-```bash
+git clone https://github.com/LovreDzaja/LDZNextjsZavrsniProjekt2023.git
+
+After cloning the repository, navigate to the project directory and install the dependencies using the following command:
+
+npm install
+
+Once the dependencies have been installed, you can start the development server using the following command:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The development server should now be running on http://localhost:3000. You can open this URL in your web browser to view the project.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Contributing
+Contributions to the project are welcome. If you would like to contribute, please fork the repository and submit a pull request.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+License
+This project is licensed under the MIT License. See the LICENSE file for more information.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-"# ZavrsniProjekt2023-nextjs" 
+Acknowledgments
+Thanks to the instructors for providing the course materials and guidance.
+Thanks to the open-source community for providing the tools and libraries used in this project.
