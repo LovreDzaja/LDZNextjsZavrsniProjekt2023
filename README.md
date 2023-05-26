@@ -1,29 +1,47 @@
-LDZNextjsZavrsniProjekt2023
-This is a Next.js project created as a final project for a course. The purpose of the project is to showcase the knowledge and skills gained during the course.
+# LDZNextjsZavrsniProjekt2023
 
-Getting Started
-To get started with the project, you will need to have Node.js and npm installed on your computer. You can download the latest version of Node.js from the official website here.
+Welcome to the LDZNextjsZavrsniProjekt2023 repository! This project is a final project developed by Lovre Dzaja for the year 2023.
 
-Once you have installed Node.js, you can clone the repository to your local machine using the following command:
+## Project Description
 
-git clone https://github.com/LovreDzaja/LDZNextjsZavrsniProjekt2023.git
+The LDZNextjsZavrsniProjekt2023 is a web application built using Next.js, a popular React framework for server-side rendering and static site generation. This project serves as the culmination of Lovre Dzaja's studies or work for the year 2023.
 
-After cloning the repository, navigate to the project directory and install the dependencies using the following command:
+## Installation
 
-npm install
+To run this project locally, please follow the instructions below:
 
-Once the dependencies have been installed, you can start the development server using the following command:
+1. Navigate to the project directory:
+   ```
+   cd LDZNextjsZavrsniProjekt2023
+   ```
+2. Install the dependencies:
+    ```
+    npm install
+    ```
+3. Start the development server:
+    ```
+    npm run dev
+    ```
+4. Open your broeser and visit http://localhost:3000 to access the application.
 
-npm run dev
 
-The development server should now be running on http://localhost:3000. You can open this URL in your web browser to view the project.
+## Usage
 
-Contributing
-Contributions to the project are welcome. If you would like to contribute, please fork the repository and submit a pull request.
+This project is intended to showcase Lovre Dzaja's skills and accomplishments for the year 2023. You can explore the application and its various features and components.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+## Contributing
 
-Acknowledgments
-Thanks to the instructors for providing the course materials and guidance.
-Thanks to the open-source community for providing the tools and libraries used in this project.
+Contributions to this project are currently not accepted, as it is a final project specific to Lovre Dzaja. However, you are welcome to fork the repository and modify it for your own purposes.
+
+## License
+
+This project is not associated with any license as it is a personal project. Unauthorized use, distribution, or modification of any files within this repository is not permitted.
+
+## Contact
+
+If you have any questions or concerns regarding this project, you can reach out to Lovre Dzaja at lovre.dzaja@example.com.
+
+Thank you for your interest in LDZNextjsZavrsniProjekt2023!
+
+
+
