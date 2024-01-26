@@ -37,10 +37,6 @@ Contributions to this project are currently not accepted, as it is a final proje
 
 This project is not associated with any license as it is a personal project. Unauthorized use, distribution, or modification of any files within this repository is not permitted.
 
-## Contact
-
-If you have any questions or concerns regarding this project, you can reach out to Lovre Dzaja at lovre.dzaja@example.com.
-
 Thank you for your interest in LDZNextjsZavrsniProjekt2023!
 
 
