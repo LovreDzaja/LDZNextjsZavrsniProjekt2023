@@ -15,7 +15,6 @@ interface ImageUploadProps{
 }
 
 
-//cloudinary sifra : "#$KoKAKoLa$#%1"
 const ImageUpload: React.FC<ImageUploadProps> = ({
     onChange,
     value
